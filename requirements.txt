@@ -1,0 +1,7 @@
+redis
+telegram
+python-telegram-bot
+configparser
+urllib3
+requests
+
